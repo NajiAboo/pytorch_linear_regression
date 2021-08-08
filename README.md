@@ -1,2 +1,2 @@
 # pytorch_linear_regression
-Linear Regression using Pytorch
+Linear Regression from scratch using Pytorch
